@@ -18,6 +18,7 @@
 - [Number of Ways to Climb Stairs](./day14/problem.md)
 - [Find Pythagorean Triplets](./day15/problem.md)
 - [Edit Distance](./day16/problem.md)
+- [Create a Simple Calculator](./day17/problem.md)
 
 # Reference
 https://www.techseries.dev/
