@@ -19,6 +19,8 @@
 - [Find Pythagorean Triplets](./day15/problem.md)
 - [Edit Distance](./day16/problem.md)
 - [Create a Simple Calculator](./day17/problem.md)
+- [Find Cycles in a Graph](./day18/problem.md)
+- [Word Search](./day19/problem.md)
 
 # Reference
 https://www.techseries.dev/
