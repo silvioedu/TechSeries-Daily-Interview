@@ -21,6 +21,8 @@
 - [Create a Simple Calculator](./day17/problem.md)
 - [Find Cycles in a Graph](./day18/problem.md)
 - [Word Search](./day19/problem.md)
+- [Minimum Size Subarray Sum](./day20/problem.md)
+
 
 # Reference
 https://www.techseries.dev/
