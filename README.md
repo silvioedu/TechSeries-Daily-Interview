@@ -22,6 +22,7 @@
 - [Find Cycles in a Graph](./day18/problem.md)
 - [Word Search](./day19/problem.md)
 - [Minimum Size Subarray Sum](./day20/problem.md)
+- [Ways to Traverse a Grid](./day21/problem.md)
 
 
 # Reference
