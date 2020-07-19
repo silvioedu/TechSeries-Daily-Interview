@@ -19,10 +19,12 @@
 - [Find Pythagorean Triplets](./day15/problem.md)
 - [Edit Distance](./day16/problem.md)
 - [Create a Simple Calculator](./day17/problem.md)
-- [Find Cycles in a Graph](./day18/problem.md)
+- [Find Cycles in a Graph](./day18/problem.md) X
 - [Word Search](./day19/problem.md)
 - [Minimum Size Subarray Sum](./day20/problem.md)
 - [Ways to Traverse a Grid](./day21/problem.md)
+- [Intersection of Linked Lists](./day22/problem.md)
+
 
 
 # Reference
