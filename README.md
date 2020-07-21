@@ -24,6 +24,8 @@
 - [Minimum Size Subarray Sum](./day20/problem.md)
 - [Ways to Traverse a Grid](./day21/problem.md)
 - [Intersection of Linked Lists](./day22/problem.md)
+- [Falling Dominoes](./day23/problem.md)
+
 
 
 
