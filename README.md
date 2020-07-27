@@ -29,7 +29,7 @@
 - [Remove k-th Last Element From Linked List](./day25/problem.md) X
 - [Witness of The Tall People](./day26/problem.md)
 - [Course Prerequisites](./day27/problem.md) X
-- [Move Zeros](./day28/problem.md) X
+- [Move Zeros](./day28/problem.md)
 - [Find the k-th Largest Element in a List](./day29/problem.md) X
 
 
