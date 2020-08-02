@@ -28,9 +28,9 @@
 - [Remove Consecutive Nodes that Sum to 0](./day24/problem.md)
 - [Remove k-th Last Element From Linked List](./day25/problem.md) X
 - [Witness of The Tall People](./day26/problem.md)
-- [Course Prerequisites](./day27/problem.md) X
+- [Course Prerequisites](./day27/problem.md)
 - [Move Zeros](./day28/problem.md)
-- [Find the k-th Largest Element in a List](./day29/problem.md) X
+- [Find the k-th Largest Element in a List](./day29/problem.md)
 
 
 
