@@ -1,5 +1,6 @@
 def findKthLargest(nums, k):
-    return sorted(nums, reverse=True)[k-1]
+    nums.sort(reverse=True)
+    return nums[k-1]
 
 
 if __name__ == '__main__':

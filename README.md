@@ -31,6 +31,8 @@
 - [Course Prerequisites](./day27/problem.md)
 - [Move Zeros](./day28/problem.md)
 - [Find the k-th Largest Element in a List](./day29/problem.md)
+- [Spiral Traversal of Grid](./day30/problem.md)
+
 
 
 
