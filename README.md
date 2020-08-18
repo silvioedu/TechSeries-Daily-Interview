@@ -42,6 +42,8 @@
 - [Trapping Rainwater](day38/problem.md)
 - [Buddy Strings](day39/problem.md)
 - [Deepest Node in a Binary Tree](day40/problem.md)
+- [Look and Say Sequence](day41/problem.md)
+- [First Missing Positive Integer](day42/problem.md)
 
 
 
