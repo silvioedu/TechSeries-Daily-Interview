@@ -36,3 +36,7 @@ root.right = Node('c')
 print deepest(root)
 # (d, 3)
 ```
+
+## Solution
+
+- [Python Solution](./Solution.py)

@@ -39,3 +39,7 @@ print Solution().buddyStrings('aaaaaaabc', 'aaaaaaacb')
 print Solution().buddyStrings('aaaaaabbc', 'aaaaaaacb')
 # False
 ```
+
+## Solution
+
+- [Python Solution](./Solution.py)

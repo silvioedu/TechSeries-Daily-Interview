@@ -24,3 +24,7 @@ print q.dequeue()
 print q.dequeue()
 # 1 2 3
 ```
+
+## Solution
+
+- [Python Solution](./Solution.py)

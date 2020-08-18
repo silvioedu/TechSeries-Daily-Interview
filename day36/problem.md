@@ -26,3 +26,7 @@ b = Node(2, Node(4, Node(6)))
 print merge([a, b])
 # 123456
 ```
+
+## Solution
+
+- [Python Solution](./Solution.py)

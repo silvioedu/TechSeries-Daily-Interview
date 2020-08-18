@@ -16,3 +16,7 @@ def buy_and_sell(arr):
 print buy_and_sell([9, 11, 8, 5, 7, 10])
 # 5
 ```
+
+## Solution
+
+- [Python Solution](./Solution.py)
