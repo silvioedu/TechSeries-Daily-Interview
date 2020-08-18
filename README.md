@@ -32,8 +32,11 @@
 - [Move Zeros](./day28/problem.md)
 - [Find the k-th Largest Element in a List](./day29/problem.md)
 - [Spiral Traversal of Grid](./day30/problem.md)
-
-
+- [Largest Product of 3 Elements](./day31/problem.md)
+- [Merge Overlapping Intervals](./day32/problem.md)
+- [Maximum Profit From Stocks](./day33/problem.md)
+- [Queue Using Two Stacks](./day34/problem.md)
+- [Contiguous Sub-array with Maximum Sum](./day35/problem.md)
 
 
 
