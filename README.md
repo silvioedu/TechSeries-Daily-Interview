@@ -37,6 +37,10 @@
 - [Maximum Profit From Stocks](./day33/problem.md)
 - [Queue Using Two Stacks](./day34/problem.md)
 - [Contiguous Sub-array with Maximum Sum](./day35/problem.md)
+- [Merge K Sorted Linked Lists](./day36/problem.md)
+- [Create a balanced binary search tree](./day37/problem.md)
+- [Trapping Rainwater](day38/problem.md)
+- [Buddy Strings](day39/problem.md)
 
 
 
