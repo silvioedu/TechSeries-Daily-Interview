@@ -44,6 +44,8 @@
 - [Deepest Node in a Binary Tree](day40/problem.md)
 - [Look and Say Sequence](day41/problem.md)
 - [First Missing Positive Integer](day42/problem.md)
+- [Validate Binary Search Tree](day43/problem.md)
+- [Get all Values at a Certain Height in a Binary Tree](day44/problem.md)
 
 
 
