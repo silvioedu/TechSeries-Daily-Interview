@@ -50,8 +50,7 @@
 - [Sort Colors](day46/problem.md)
 - [Running Median](day47/problem.md)
 - [Reverse Words in a String](day48/problem.md)
-
-
+- [3 Sum](day49/problem.md)
 
 
 # Reference
