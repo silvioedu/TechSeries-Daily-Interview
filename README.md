@@ -56,6 +56,8 @@
 - [Merge List Of Number Into Ranges](day52/problem.md)
 - [Product of Array Except Self](day53/problem.md)
 - [Given two arrays, write a function to compute their intersection](day54/problem.md)
+- [Longest Increasing Subsequence](day55/problem.md)
+
 
 
 # Reference
