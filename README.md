@@ -53,6 +53,9 @@
 - [3 Sum](day49/problem.md)
 - [Showing cards](day50/problem.md) 
 - [Minimum Removals for Valid Parenthesis](day51/problem.md)
+- [Merge List Of Number Into Ranges](day52/problem.md)
+- [Product of Array Except Self](day53/problem.md)
+- [Given two arrays, write a function to compute their intersection](day54/problem.md)
 
 
 # Reference
