@@ -12,7 +12,7 @@ class Card(object):
         12: 'King'
     }
 
-    def __init__(self, value, suit):
+    def __init__(self, value,suit):
         self.value = value
         self.suit = suit
 

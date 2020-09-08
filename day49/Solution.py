@@ -1,5 +1,5 @@
 class Solution(object):
-    def threeSum(self, nums):
+    def threeSum(self,nums):
         sum0 = set()
         [sum0.add((nums[x], nums[y], nums[z])) if nums[x] + nums[y] + nums[z] == 0 else None
             for x in range(len(nums))

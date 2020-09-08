@@ -4,4 +4,3 @@ def count_invalid_parenthesis(string):
 
 if __name__ == '__main__':
     print(count_invalid_parenthesis("()())()"))
-    # 1

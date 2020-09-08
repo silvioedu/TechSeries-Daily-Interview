@@ -1,5 +1,5 @@
 Hi, here's your problem today. This problem was recently asked by Uber:
-
+ 
 You are given a string of parenthesis. Return the minimum number of parenthesis that would need to be removed in order to make the string valid. "Valid" means that each open parenthesis has a matching closed parenthesis.
 
 Example:

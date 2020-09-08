@@ -51,7 +51,7 @@
 - [Running Median](day47/problem.md)
 - [Reverse Words in a String](day48/problem.md)
 - [3 Sum](day49/problem.md)
-- [Showing cards](day50/problem.md)
+- [Showing cards](day50/problem.md) 
 - [Minimum Removals for Valid Parenthesis](day51/problem.md)
 
 
