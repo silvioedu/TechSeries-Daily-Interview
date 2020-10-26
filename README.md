@@ -60,6 +60,7 @@
 - [Reverse integer](day56/problem.md)
 - [Distribute Bonuses](day57/problem.md)
 - [Min Stack](day58/problem.md)
+- [Decode String](day59/problem.md)
 
 
 
