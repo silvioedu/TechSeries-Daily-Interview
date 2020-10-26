@@ -59,6 +59,7 @@
 - [Min Range Needed to Sort](day55/problem.md)
 - [Reverse integer](day56/problem.md)
 - [Distribute Bonuses](day57/problem.md)
+- [Min Stack](day58/problem.md)
 
 
 
